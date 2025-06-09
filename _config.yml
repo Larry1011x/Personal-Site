@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Larri Fernandez's Personal Site
 email: Larry1011x@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my blog and portfolio!
+  Here, I share insights, ideas, and experiences from my journey in IT, cybersecurity, and system administration. You'll find a mix of technical content, personal projects, and the occasional blend of my hobbies with my passion for technology. This site serves as both a space to document my work and a platform to showcase the skills I've developed over the years. I hope you find something here that's useful, interesting, or even a bit inspiring.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Larry1011x
+github_username:  Larry1011x
 
 # Build settings
 theme: jekyll-theme-clean-blog
